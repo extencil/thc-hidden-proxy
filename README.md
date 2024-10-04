@@ -12,4 +12,7 @@ i created this repository ~~because i have no mental sanity~~ with the aim of re
 - [ ] not to be arrested
 
 # history
-the idea for this project came up in the HackersChoice telegram chat. i don't know if the group will still be active when you read this README, so look for the active community on the thc domain. they take great care to keep the social networks up to date there.
+the idea for this project came up from @[SkyperTHC](https://github.com/SkyperTHC) in some of hackerschoice's chat. i don't know if the group will still be active when you read this README, so look for the active community on the official HackersChoice "DaBliU-DaBliU-DaBliU" domain:
+- https://www.thc.org/
+
+THC take great care to keep the social networks up to date there.
