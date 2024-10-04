@@ -9,7 +9,7 @@ i created this repository ~~because i have no mental sanity~~ with the aim of re
 - [ ] more research
 - [ ] test in controlled dummy laboratories
 - [ ] test in real cyber labs on restricted networks
-- [ ] not to be arrested
+- [ ] not to be arrested? no, i'm joking. the idea is to test this guns and bullets inside corporate networks to establish an connection.
 
 # history
 the idea for this project came up from @[SkyperTHC](https://github.com/SkyperTHC) in some of hackerschoice's chat. i don't know if the group will still be active when you read this README, so look for the active community on the official HackersChoice "DaBliU-DaBliU-DaBliU" domain:
